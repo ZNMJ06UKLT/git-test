@@ -1,3 +1,2 @@
 bye
 this is some important text
-some wrong text
